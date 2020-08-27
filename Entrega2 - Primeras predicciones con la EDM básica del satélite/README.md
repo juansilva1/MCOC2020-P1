@@ -1,1 +1,11 @@
+## Entrega 2
 
+### Contestar preguntas
+
+1) Si se coloca el satélite a una altura de 700km (en la dirección x, ojo con el radio de la tierra) y se le da una velocidad inicial tangencial y(0) = vt ¿Cuanto debe valer vt de modo que el satélite efectivamente orbite sin caer de vuelta dentro de la atmosfera (asuma que esta comienza a una altura de 80km)?
+
+**R:** Tomando en cuenta lo anterior, y asumiendo que el satelite da como minimo 2 vueltas a la Tierra (2 orbitas), se necesita una velosidad de **24551 [km/h] (6819.72 [m/s]).** Esto permite que el satelite de las 2 vueltas, sin caer de vuelta dentro de la atmosfera terrestre.
+
+2) ¿Como encontró vt?
+
+**R:** Primero al tanteo vi que con 25000 km/h las 2 orbitas ya no tocaban la Tierra (tambien grafique la Tierra con su atmosfera de 80 km), del mismo modo vi que con 24500 km/h todavia las orvitas tocaban la Tierra, por lo que teniendo este intervalo, proceguí a hacer un `for i in range (24500,25000)`, con esto formaba una lista que se formaba tomando encuenta las 2 rotaciones y me entregaba la distancia del satelite a la tierra, luego obtenía el minimo de la lista. Si este minimo era menor al radio de la tierra más la atmosfera, entonces seguía adelante. así cuando obtenía la velocidad "justa", el ciclo de detenía y me arrojaba la ultima velocidad, en este caso fue **24551 [km/h].**
