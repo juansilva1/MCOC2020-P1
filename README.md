@@ -3,6 +3,8 @@
 
 ## Entrega 2
 
+*Nota: los archivos pedidos se encuentran en la carpeta con el mismo nombre de esta entrega*
+
 ### Contestar preguntas
 
 1) Si se coloca el satélite a una altura de 700km (en la dirección x, ojo con el radio de la tierra) y se le da una velocidad inicial tangencial y(0) = vt ¿Cuanto debe valer vt de modo que el satélite efectivamente orbite sin caer de vuelta dentro de la atmosfera (asuma que esta comienza a una altura de 80km)?
