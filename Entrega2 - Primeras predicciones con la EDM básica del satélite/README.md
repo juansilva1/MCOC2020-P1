@@ -8,7 +8,7 @@
 
 2) ¿Como encontró vt?
 
-**R:** Primero al tanteo vi que con 25000 km/h las 2 orbitas ya no tocaban la Tierra (tambien grafique la Tierra con su atmosfera de 80 km), del mismo modo vi que con 24500 km/h todavia las orvitas tocaban la Tierra, por lo que teniendo este intervalo, proceguí a hacer un `for i in range (24500,25000)`, con esto formaba una lista que se formaba tomando encuenta las 2 rotaciones y me entregaba la distancia del satelite a la tierra, luego obtenía el minimo de la lista. Si este minimo era menor al radio de la tierra más la atmosfera, entonces seguía adelante. así cuando obtenía la velocidad "justa", el ciclo de detenía y me arrojaba la ultima velocidad, en este caso fue **24551 [km/h].**
+**R:** Primero al tanteo vi que con 25000 km/h las 2 órbitas ya no tocaban la Tierra (también grafiqué la Tierra con su atmósfera de 80 km), del mismo modo vi que con 24500 km/h todavía las órbitas tocaban la Tierra, por lo que teniendo este intervalo, proseguí a hacer un `for i in range (24500,25000)`, con esto formaba una lista que se formaba tomando en cuenta las 2 rotaciones y me entregaba la distancia del satélite a la tierra, luego obtenía el mínimo de la lista. Si este mínimo era menor al radio de la tierra más la atmósfera, entonces seguía adelante. así cuando obtenía la velocidad "justa", el ciclo de detenía y me arrojaba la ultima velocidad, en este caso fue **24551 [km/h].**
 
 ## Gráficos
 
