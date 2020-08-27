@@ -18,6 +18,8 @@
 
 ### *Grafique también la distancia al centro de la tierra del satélite vs. el tiempo, r(t), indicando la superficie de la tierra y la atmósfera como una línea de distancia constante.*
 
+*Nota: la linea horizontal roja es la atmosfera, la linea horizontal azul es la Tierra*
+
 ![Grafico Distancia_TS_vs_Tiempo](https://user-images.githubusercontent.com/69159364/91487992-a3ce0c80-e87c-11ea-8f2b-4f38704748bd.png)
 
 ### *Extra: Representación de la tierra con su atmósfera y más de 2 órbitas*
@@ -25,3 +27,5 @@
 ![Grafico Recorrido_Satelite_xy](https://user-images.githubusercontent.com/69159364/91488016-ad577480-e87c-11ea-969b-7c6040493a80.png)
 
 **Nota:** ***Estos graficos toman en cuenta la velocidad limite, es por esto que a simple vista perece como si se estuvieran tocando, si se hace zoom se puede apreciar que el satelite no llega a tocar a la atmosfera. Si se desea apresiar esta diferencia a simple vista recomiendo escoger una velocidad mayor, por ejemplo 25000 [km/h]***
+
+*El codigo imprime al final la velocidad de **24551 [km/h]** *
