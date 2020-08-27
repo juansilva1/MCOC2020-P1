@@ -3,7 +3,9 @@
 
 # Entrega 2
 
-*Nota: los archivos pedidos se encuentran en la carpeta con el mismo nombre de esta entrega*
+*Nota1: los archivos pedidos se encuentran en la carpeta con el mismo nombre de esta entrega*
+
+*Nota2: hay preguntas que estan constestadas en canvas ("ecuación en espacio de estado del sistema (escribala con el editor de ecuaciones)")*
 
 ### Contestar preguntas
 
