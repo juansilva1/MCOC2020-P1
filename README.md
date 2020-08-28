@@ -36,3 +36,9 @@
 **Nota:** ***Estos graficos toman en cuenta la velocidad limite, es por esto que a simple vista perece como si se estuvieran tocando, si se hace zoom se puede apreciar que el satelite no llega a tocar a la atmosfera. Si se desea apresiar esta diferencia a simple vista recomiendo escoger una velocidad mayor, por ejemplo 25000 [km/h]***
 
 *El codigo imprime al final la velocidad de **24551 [km/h]***
+
+# Entrega 3
+
+No se pidio nada de comentarios en esta entrega, pero aquí van unos extra:
+
+diferencia en metro tomando en cuenta tiempo UTC es de: **525005.8656269278 [m]**
