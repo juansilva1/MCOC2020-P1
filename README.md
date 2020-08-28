@@ -41,4 +41,4 @@
 
 No se pidio nada de comentarios en esta entrega, pero aquí van unos extra:
 
-diferencia en metro tomando en cuenta tiempo UTC es de: **525005.8656269278 [m]**
+Diferencia en metro tomando en cuenta tiempo UTC es de: **525005.8656269278 [m]**
