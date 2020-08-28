@@ -42,4 +42,5 @@
 No se pidio nada de comentarios en esta entrega, pero aquí van unos extra:
 
 Diferencia en metros tomando en cuenta tiempo UTC es de: **525005.8656269278 [m]**
+
 *Nota: el programa se encuentra en la carpeta "Entrega3".
