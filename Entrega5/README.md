@@ -29,3 +29,22 @@
 **_Este gráfico si que es extra, pero resulta más cómodo de leer y  revisar que solo ver números._**
 
 ![Pregunta2_Gráfica_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92327903-50ee1500-f033-11ea-8525-d3a1e95ad601.png)
+
+**R:** en todas las corridas realizadas odeint es más rapido que eulerint y además arroja resultados más cernanos a la realidad. Tal como aparece en el gráfico de barras anterior, el tiempo de ejecución de **odeint es de 0.362 (s)** y el de **eulerint es de 0,914 (s).** // obviamente varia si se vuelve a correr, pero siempre se ve esta relacion de mayor y menor (tiempo de eulerint>tiempo de odeint).
+
+## Parte 3
+
+**R:** Se tienen que utilizar más de 10000 Nsuvdiviciones para que el error sea menor al 1%.
+El tiempo de ejecución de eulerint es extremadamente lento para un numero de Nsubdivisiones muy grandes, yo cree un metodo que revisaba los primeros 10 intervalos de tiempo y si este ya era diferente de 1% lo omitía y segía con el siguiente, así fue del 100 al 10000 (de 100 en 100) y el tiempo de ejecucoin solo para los 10 intervalos era ya de unos 5-10 segs en los numeros más grandes, asi que si en ves de 10 intervalos utilizo los 9361, el programa se demoraría demasiado tiempo. 
+
+Resumen: eulerint es bastante ineficiente.
+
+## Parte 4
+
+**_Aquí tambien realice varios gráficos de más, considere los casos solo con J2, solo con J3 y con ambos_** 
+
+Como resumen J2 es el que hace una mayor correccíon de los 2.
+
+**Colocaré solo los 4 graficos de J2 + J3**
+
+
