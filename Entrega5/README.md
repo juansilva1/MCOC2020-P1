@@ -62,9 +62,12 @@ Como resumen J2 es el que hace una mayor correccíon de los 2.
 
 ![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92328440-361d9f80-f037-11ea-890a-2523e2e4f6a5.png)
 
+**R:** La deriva entre odeint y eulerint en el punto final es de 19343.5190 kilometros. Experimento una reducción de más de 300 kilometros.
+
 ### Gráfico de barras, tiempo de ejecución de odeint y eulerint utilizando J2 y J3
 
 ![Pregunta4_Gráfica_J2_y_J3_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92328438-34ec7280-f037-11ea-8f7c-7720596cf766.png)
 
+**R:** Nuevamente odeint es significativamente más rapido que eulerint. en este gráfico el odeint se demora 0.327(s) y el eulerint se demora 0.813(s).
 
 _Nota: se se desea ver el resto de gráficos, ingresar en a la carpeta "Entrega5", en esta se encuentra todo lo relacionado con esta entrega (archivos .py, .EOF y .png)_
