@@ -48,3 +48,20 @@ Como resumen J2 es el que hace una mayor correccíon de los 2.
 **Colocaré solo los 4 graficos de J2 + J3**
 
 
+### Gráfico odeint vs real utilizando J2 y J3
+
+![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_real](https://user-images.githubusercontent.com/69159364/92328441-361d9f80-f037-11ea-8289-c7b9fd334f4b.png)
+
+### Gráfico eulerint vs real utilizando J2 y J3
+
+![Pregunta4_Gráfica_J2_y_J3_deriva_eulerint_vs_real](https://user-images.githubusercontent.com/69159364/92328439-35850900-f037-11ea-9525-c0708c7a2c11.png)
+
+### Gráfico odeint vs eulerint utilizando J2 y J3
+
+![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92328440-361d9f80-f037-11ea-890a-2523e2e4f6a5.png)
+
+### Gráfico de barras, tiempo de ejecución de odeint y eulerint utilizando J2 y J3
+
+![Pregunta4_Gráfica_J2_y_J3_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92328438-34ec7280-f037-11ea-8f7c-7720596cf766.png)
+
+
