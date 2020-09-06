@@ -39,7 +39,13 @@ _Nota: los títulos de algunos gráficos se me coortaron por el largo de los mis
 **R:** Se tienen que utilizar más de 10000 Nsuvdiviciones para que el error sea menor al 1%.
 El tiempo de ejecución de eulerint es extremadamente lento para un numero de Nsubdivisiones muy grandes, yo cree un metodo que revisaba los primeros 10 intervalos de tiempo y si este ya era diferente de 1% lo omitía y segía con el siguiente, así fue del 100 al 10000 (de 100 en 100) y el tiempo de ejecucoin solo para los 10 intervalos era ya de unos 5-10 segs en los numeros más grandes, asi que si en ves de 10 intervalos utilizo los 9361, el programa se demoraría demasiado tiempo. 
 
-Resumen: eulerint es bastante ineficiente.
+**A continuacion coloco el grafico para Nsubdiviciones=1000**
+
+_Nota: esté lo tuve que correr aparte, a, solo lo corrí para 1000, no hice desde 100 hasta 10000, si se deseea obtener este gráfico se tiene que modificar la parte 3 del codigo para que solo arroje un gráfico y ademas se tendían que arreglar sus limites_
+
+![Pregunta3_Gráfica_deriva_eulerint_vs_real_con error_menor_al_1_porciento](https://user-images.githubusercontent.com/69159364/92335466-89aae000-f06d-11ea-9162-a2a0d4d34a02.png)
+
+Resumen: eulerint es bastante ineficiente. A pesar de lo anterior igual redujo significativamente el error, con 1000 subdivisiones, probablemente con un numero mucho mayor de seguro se lograría el objetivo, pero la idea no es dejar corriendo el computador todo un día.
 
 ## Parte 4
 
