@@ -1,6 +1,8 @@
 
 # Entrega5
 
+_Nota: los títulos de algunos gráficos se me coortaron por el largo de los mismos._
+
 ## Parte 1
 **_En este gráfico se presentan las 3 coordenadas x,y,z con respecto al tiempo. Estan consideradas solamente las coordenadas reales del satelite, no las obtenidas con odeint ni con eulerint._**
 
@@ -65,3 +67,4 @@ Como resumen J2 es el que hace una mayor correccíon de los 2.
 ![Pregunta4_Gráfica_J2_y_J3_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92328438-34ec7280-f037-11ea-8f7c-7720596cf766.png)
 
 
+_Nota: se se desea ver el resto de gráficos, ingresar en a la carpeta "Entrega5", en esta se encuentra todo lo relacionado con esta entrega (archivos .py, .EOF y .png)_
