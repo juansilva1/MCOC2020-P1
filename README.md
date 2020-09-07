@@ -403,3 +403,6 @@ for i in lista_datos:
 archivo1.close()
 
 ```
+
+
+**_Nota: si se desea ver el resto de archivos (.EOF y "leer_eof.py"), estos se encuentran en la carpeta "Entrega6."_**
