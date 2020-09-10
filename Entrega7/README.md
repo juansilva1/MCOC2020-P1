@@ -1,18 +1,17 @@
-
 # Entrega 7
 
 ## Mejoras realizadas
 
-1) la primera fue corregir la entrega anterior, en la cual estaba utilizando mal los terminos J2 y J3.
+1) la primera fue corregir la entrega anterior, en la cual estaba utilizando mal los términos J2 y J3.
 
-2) mejore la precicion de los terminos J2 y J3.
+2) mejore la precisión de los términos J2 y J3.
 
-3) Aumenté la velosidad al eliminar uno de los ciclos.
+3) Aumenté la velocidad al eliminar uno de los ciclos.
 
 ### Triste historia (muy extra)
 
 
-Desde el lunes Empece a relizar mejoras en el codigo (partí arreglando los errores) y me propuse a obtener Jn hasta J8 y los terminos que acompañaban C15 y S15. para esto tras 3 días de codigo logré estas funciones:
+Desde el lunes Empecé a realizar mejoras en el código (partí arreglando los errores) y me propuse a obtener Jn hasta J8 y los términos que acompañaban C15 y S15. para esto tras 3 días de código logré estas funciones:
 
 ```
 zonal_coefficients=[-0.1082635854e-2, 0.2532435346e-5, 0.1619331205e-5,
@@ -189,8 +188,8 @@ def derivadas(ex):
 
 
 ```
-El profe manda una version mucho más simple de lo que estaba intentando, me desido a probarlo obtengo las derivadas hasta J15
+El profe manda una versión mucho más simple de lo que estaba intentando, me decido a probarlo obtengo las derivadas hasta J15
 ```
 **lo remplazo: ==> no me funciona**
 
-*_Dato: Fin de la historía ==> tras 4 días programando las mejoras no valieron realmente todo el tiempo invertido._*
+*_Dato: Fin de la historia ==> tras 4 días programando las mejoras no valieron realmente todo el tiempo invertido._*
