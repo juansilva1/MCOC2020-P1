@@ -406,3 +406,21 @@ archivo1.close()
 
 
 **_Nota: si se desea ver el resto de archivos (.EOF y "leer_eof.py"), estos se encuentran en la carpeta "Entrega6."_**
+
+
+
+# Entrega 7
+
+## Mejoras realizadas
+
+1) la primera fue corregir la entrega anterior, en la cual estaba utilizando mal los términos J2 y J3.
+
+2) mejore la precisión de los términos J2 y J3.
+
+3) Aumenté la velocidad al eliminar uno de los ciclos.
+
+### Triste historia
+
+*_Si desea continuar con la historia ver la carpeta "Entrega7,"_*
+
+*_Codigo se encuentra tambien en la carpeta "Entrega7."_*
