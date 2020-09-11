@@ -200,6 +200,4 @@ for line in archivo:
 archivo.close()
 
 
-# for i in lista_datos:
-    
-# archivo1.close()
+archivo1.close()
