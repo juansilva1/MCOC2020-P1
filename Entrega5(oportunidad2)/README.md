@@ -59,7 +59,7 @@ Como resumen J2 es el que hace una mayor corrección de los 2.
 
 ### Gráfico odeint vs real utilizando J2 y J3
 
-![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_real](https://user-images.githubusercontent.com/69159364/92933169-4ad5ab00-f41c-11ea-9df8-b56a084d17d4.png)
+![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_real](https://user-images.githubusercontent.com/69159364/92937469-bec68200-f421-11ea-9e05-74e4cb9acd8a.png)
 
 ### Gráfico eulerint vs real utilizando J2 y J3
 
