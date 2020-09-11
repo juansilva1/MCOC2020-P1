@@ -25,7 +25,7 @@ _Nota: los títulos de algunos gráficos se me cortaron por el largo de los mism
 
 ![Pregunta2_Gráfica_deriva_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92931514-f2051300-f419-11ea-99d8-d57edee32230.png)
 
-**R:** La deriva entre odeint y eulerint en el punto final es de 19666.822 kilómetros
+**R:** La deriva entre odeint y eulerint en el punto final es de 19723.989 kilómetros
 
 ### Gráfico de barras, me indica el tiempo de odeint y eulerint
 
@@ -33,7 +33,7 @@ _Nota: los títulos de algunos gráficos se me cortaron por el largo de los mism
 
 ![Pregunta2_Gráfica_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92932580-760bca80-f41b-11ea-9215-dddd7ed99d9f.png)
 
-**R:** en todas las corridas realizadas odeint es más rápido que eulerint y además arroja resultados más cercanos a la realidad. Tal como aparece en el gráfico de barras anterior, el tiempo de ejecución de **odeint es de 0.362 (s)** y el de **eulerint es de 0,914 (s).** // obviamente varia si se vuelve a correr, pero siempre se ve esta relación de mayor y menor (tiempo de eulerint>tiempo de odeint).
+**R:** en todas las corridas realizadas odeint es más rápido que eulerint y además arroja resultados más cercanos a la realidad. Tal como aparece en el gráfico de barras anterior, el tiempo de ejecución de **odeint es de 0.57 (s)** y el de **eulerint es de 1.117 (s).** // obviamente varia si se vuelve a correr, pero siempre se ve esta relación de mayor y menor (tiempo de eulerint>tiempo de odeint).
 
 ## Parte 3
 
@@ -49,15 +49,6 @@ _Nota: esté lo tuve que correr aparte, a, solo lo corrí para 1000, no hice des
 Resumen: eulerint es bastante ineficiente. A pesar de lo anterior igual redujo significativamente el error, con 1000 subdivisiones, probablemente con un número mucho mayor de seguro se lograría el objetivo, pero la idea no es dejar corriendo el computador todo un día.
 
 ## Parte 4
-
-
-
-
-
-
-
-
-
 
 **_Aquí también realice varios gráficos de más, considere los casos solo con J2, solo con J3 y con ambos_** 
 
@@ -78,13 +69,15 @@ Como resumen J2 es el que hace una mayor corrección de los 2.
 
 ![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92933168-4ad5ab00-f41c-11ea-9d46-22219cd2e4f7.png)
 
-**R:** La deriva entre odeint y eulerint en el punto final es de 19343.5190 kilómetros. Experimento una reducción de más de 300 kilómetros.
+**R:** La deriva entre odeint y eulerint en el punto final es de 19408.0368 kilómetros. Experimento una reducción de más de 300 kilómetros.
 
 ### Gráfico de barras, tiempo de ejecución de odeint y eulerint utilizando J2 y J3
 
 ![Pregunta4_Gráfica_J2_y_J3_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92933163-49a47e00-f41c-11ea-9537-46b047f0f384.png)
 
-**R:** Nuevamente odeint es significativamente más rápido que eulerint. en este gráfico el odeint se demora 0.327(s) y el eulerint se demora 0.813(s).
+**R:** Nuevamente odeint es significativamente más rápido que eulerint. en este gráfico el odeint se demora **0.742(s)** y el eulerint se demora **1.751(s).**
+
+==> A pesar de que los tiempos aumentan, la precicion aumenta.
 
 _Nota: se se desea ver el resto de gráficos, ingresar en a la carpeta "Entrega5", en esta se encuentra todo lo relacionado con esta entrega (archivos .py, .EOF y .png)_
 
