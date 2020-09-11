@@ -6,7 +6,7 @@ _Nota: los títulos de algunos gráficos se me cortaron por el largo de los mism
 ## Parte 1
 **_En este gráfico se presentan las 3 coordenadas x,y,z con respecto al tiempo. Están consideradas solamente las coordenadas reales del satélite, no las obtenidas con odeint ni con eulerint._**
 
-![Pregunta1_Gráficos_posición_vs_tiempo](https://user-images.githubusercontent.com/69159364/92327729-37989900-f032-11ea-97c8-44d88956a955.png)
+![Pregunta1_Gráficos_posición_vs_tiempo](https://user-images.githubusercontent.com/69159364/92931278-9c306b00-f419-11ea-8321-e03f8827177b.png)
 
 ## Pate 2
 
