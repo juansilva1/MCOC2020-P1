@@ -31,7 +31,7 @@ _Nota: los títulos de algunos gráficos se me cortaron por el largo de los mism
 
 **_Este gráfico sí que es extra, pero resulta más cómodo de leer y revisar que solo ver números._**
 
-![Pregunta2_Gráfica_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92327903-50ee1500-f033-11ea-8525-d3a1e95ad601.png)
+![Pregunta2_Gráfica_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92932580-760bca80-f41b-11ea-9215-dddd7ed99d9f.png)
 
 **R:** en todas las corridas realizadas odeint es más rápido que eulerint y además arroja resultados más cercanos a la realidad. Tal como aparece en el gráfico de barras anterior, el tiempo de ejecución de **odeint es de 0.362 (s)** y el de **eulerint es de 0,914 (s).** // obviamente varia si se vuelve a correr, pero siempre se ve esta relación de mayor y menor (tiempo de eulerint>tiempo de odeint).
 
@@ -44,7 +44,7 @@ El tiempo de ejecución de eulerint es extremadamente lento para un número de N
 
 _Nota: esté lo tuve que correr aparte, a, solo lo corrí para 1000, no hice desde 100 hasta 10000, si se desea obtener este gráfico se tiene que modificar la parte 3 del código para que solo arroje un gráfico y además se tendrían que arreglar sus límites (del gráfico)._
 
-![Pregunta3_Gráfica_deriva_eulerint_vs_real_con error_menor_al_1_porciento](https://user-images.githubusercontent.com/69159364/92335466-89aae000-f06d-11ea-9162-a2a0d4d34a02.png)
+![Pregunta3_Gráfica_deriva_eulerint_vs_real_con error_menor_al_1_porciento](https://user-images.githubusercontent.com/69159364/92932582-773cf780-f41b-11ea-8b87-f6450fb302ca.png)
 
 Resumen: eulerint es bastante ineficiente. A pesar de lo anterior igual redujo significativamente el error, con 1000 subdivisiones, probablemente con un número mucho mayor de seguro se lograría el objetivo, pero la idea no es dejar corriendo el computador todo un día.
 
