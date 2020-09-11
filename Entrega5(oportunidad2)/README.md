@@ -50,6 +50,15 @@ Resumen: eulerint es bastante ineficiente. A pesar de lo anterior igual redujo s
 
 ## Parte 4
 
+
+
+
+
+
+
+
+
+
 **_Aquí también realice varios gráficos de más, considere los casos solo con J2, solo con J3 y con ambos_** 
 
 Como resumen J2 es el que hace una mayor corrección de los 2.
@@ -59,21 +68,21 @@ Como resumen J2 es el que hace una mayor corrección de los 2.
 
 ### Gráfico odeint vs real utilizando J2 y J3
 
-![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_real](https://user-images.githubusercontent.com/69159364/92328441-361d9f80-f037-11ea-8289-c7b9fd334f4b.png)
+![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_real](https://user-images.githubusercontent.com/69159364/92933169-4ad5ab00-f41c-11ea-9df8-b56a084d17d4.png)
 
 ### Gráfico eulerint vs real utilizando J2 y J3
 
-![Pregunta4_Gráfica_J2_y_J3_deriva_eulerint_vs_real](https://user-images.githubusercontent.com/69159364/92328439-35850900-f037-11ea-9525-c0708c7a2c11.png)
+![Pregunta4_Gráfica_J2_y_J3_deriva_eulerint_vs_real](https://user-images.githubusercontent.com/69159364/92933166-4a3d1480-f41c-11ea-8f43-a372c8064e8d.png)
 
 ### Gráfico odeint vs eulerint utilizando J2 y J3
 
-![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92328440-361d9f80-f037-11ea-890a-2523e2e4f6a5.png)
+![Pregunta4_Gráfica_J2_y_J3_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92933163-49a47e00-f41c-11ea-9537-46b047f0f384.png)
 
 **R:** La deriva entre odeint y eulerint en el punto final es de 19343.5190 kilómetros. Experimento una reducción de más de 300 kilómetros.
 
 ### Gráfico de barras, tiempo de ejecución de odeint y eulerint utilizando J2 y J3
 
-![Pregunta4_Gráfica_J2_y_J3_demora_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92328438-34ec7280-f037-11ea-8f7c-7720596cf766.png)
+![Pregunta4_Gráfica_J2_y_J3_deriva_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92933168-4ad5ab00-f41c-11ea-9d46-22219cd2e4f7.png)
 
 **R:** Nuevamente odeint es significativamente más rápido que eulerint. en este gráfico el odeint se demora 0.327(s) y el eulerint se demora 0.813(s).
 
