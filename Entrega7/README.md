@@ -8,6 +8,8 @@
 
 3) Aumenté la velocidad al eliminar uno de los ciclos.
 
+4) Implemente hasta el J8, lo que redujo significativamente la distancia entre los puntos reales y finales del satelite.
+
 ### Triste historia (muy extra)
 
 
