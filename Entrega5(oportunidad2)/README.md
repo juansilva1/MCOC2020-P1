@@ -77,7 +77,7 @@ Como resumen J2 es el que hace una mayor corrección de los 2.
 
 **R:** Nuevamente odeint es significativamente más rápido que eulerint. en este gráfico el odeint se demora **0.742(s)** y el eulerint se demora **1.751(s).**
 
-==> A pesar de que los tiempos aumentan, la precicion aumenta.
+==> A pesar de que los tiempos aumentan, la precicion tambien lo hace aumenta.
 
 _Nota: se se desea ver el resto de gráficos, ingresar en a la carpeta "Entrega5", en esta se encuentra todo lo relacionado con esta entrega (archivos .py, .EOF y .png)_
 
