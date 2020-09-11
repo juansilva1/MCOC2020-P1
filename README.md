@@ -423,4 +423,5 @@ archivo1.close()
 
 *_Si desea continuar con la historia ver la carpeta "Entrega7,"_*
 
-*_Codigo se encuentra tambien en la carpeta "Entrega7."_*
+*_Nota: Codigo se encuentra tambien en la carpeta "Entrega7."_*
+
