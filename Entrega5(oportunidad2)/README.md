@@ -10,19 +10,20 @@ _Nota: los títulos de algunos gráficos se me cortaron por el largo de los mism
 
 ## Pate 2
 
+
 **_Para esta parte realice varios gráficos extras que ayudan a comprender de mejor forma el funcionamiento de las funciones odeint y eulerint._**
 
 ### Gráfico odeint vs real
 
-![Pregunta2_Gráfica_deriva_odeint_vs_real](https://user-images.githubusercontent.com/69159364/92327906-521f4200-f033-11ea-8b3c-1f3ad02c16dc.png)
+![Pregunta2_Gráfica_deriva_odeint_vs_real](https://user-images.githubusercontent.com/69159364/92931516-f2051300-f419-11ea-8a59-f30e93fac24a.png)
 
 ### Gráfico eulerint vs real
 
-![Pregunta2_Gráfica_deriva_eulerint_vs_real](https://user-images.githubusercontent.com/69159364/92327904-5186ab80-f033-11ea-8aa8-266e30cb1257.png)
+![Pregunta2_Gráfica_deriva_eulerint_vs_real](https://user-images.githubusercontent.com/69159364/92931511-f0d3e600-f419-11ea-81c3-5dc92ecfb941.png)
 
 ### Gráfico odeint vs eulerint
 
-![Pregunta2_Gráfica_deriva_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92327905-521f4200-f033-11ea-8079-0dd868a96e86.png)
+![Pregunta2_Gráfica_deriva_odeint_vs_eulerint](https://user-images.githubusercontent.com/69159364/92931514-f2051300-f419-11ea-99d8-d57edee32230.png)
 
 **R:** La deriva entre odeint y eulerint en el punto final es de 19666.822 kilómetros
 
